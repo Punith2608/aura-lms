@@ -1,0 +1,5 @@
+{
+  "name": "Aura LMS",
+  "description": "A modern, clean Learning Management System (LMS) web application UI built with React and Tailwind CSS. It provides a professional and minimal interface for students and teachers to manage courses, assignments, and grades.",
+  "requestFramePermissions": []
+}
