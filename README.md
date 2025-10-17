@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌟 Aura LMS
 
-# Run and deploy your AI Studio app
+**Aura LMS** is a lightweight, modern **Learning Management System (LMS)** designed to manage **courses, students, and grades** efficiently.  
+It’s a **frontend-only web app** built with **React**, **TypeScript**, and **Tailwind CSS**, designed to run directly in the browser without a complex backend or build process.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1VyX7B0iBpGNsGf2FCTMLM78fTarg-88g
+## 🚀 Features
 
-## Run Locally
+- 📚 Manage Courses, Students, and Grades  
+- 🧑‍🏫 Simple instructor dashboard for managing learning content  
+- 🎓 Student view with progress tracking  
+- ⚡ Fast, lightweight, and modern — built entirely in React + TypeScript  
+- 🎨 Styled using Tailwind CSS for responsive UI  
+- 🧩 Runs directly in the browser (no backend required)
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+| Layer | Technology |
+|-------|-------------|
+| Frontend | React (with TypeScript) |
+| Styling | Tailwind CSS |
+| Build | Vite / Browser-based (no complex setup) |
+
+---
+
+Team code crakers 
+
+team members 
+K.punith
+Er.pavan
+K.ritesh Chowdary 
+Nagaraju puneeth
